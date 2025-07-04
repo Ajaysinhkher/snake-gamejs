@@ -334,3 +334,4 @@ console.log(...arr2,...arr3)
 console.log(...arr3);
 console.log(arr3);
 console.log(getNumbers(...arr3,...arr2,20,10.5,10.2));
+
